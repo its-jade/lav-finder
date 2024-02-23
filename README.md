@@ -1,3 +1,3 @@
-# Svelte Leaderboards
+# LavFinder
 
-From my UGAHacks Workshop
+A website for finding the best public restroom for all your needs!
